@@ -14,9 +14,9 @@
 		"sourceMap": true,
 		"incremental": true,
 		"paths": {
-			"@/*": ["./src/*"],
-			"_config": ["./config/index.js"]
+			"@/*": ["./src/*"]
 		}
 	},
+	"include": ["**/*.ts"],
 	"exclude": ["node_modules"]
 }

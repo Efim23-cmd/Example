@@ -28,6 +28,9 @@
 		"webpack-cli": "^4.10.0",
 		"webpack-dev-server": "^4.11.0"
 	},
+	"overrides": {
+		"eslint": "^9.9.0"
+	},
 	"engines": {
 		"node": ">= 6.0.0",
 		"npm": "*"
