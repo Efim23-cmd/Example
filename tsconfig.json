@@ -18,6 +18,5 @@
 			"_config": ["./config/index.js"]
 		}
 	},
-	"include": ["./config/index.js"],
 	"exclude": ["node_modules"]
 }
