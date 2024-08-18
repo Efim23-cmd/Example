@@ -92,6 +92,9 @@ module.exports = {
 			},
 		],
 	},
+	resolve: {
+		extensions: ['.js', '.ts'],
+	},
 	plugins: [
 		new сopy({
 			patterns: [
